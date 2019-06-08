@@ -8,12 +8,12 @@ This tutorial will walk you through how to upload file from Angular to Firebase
   - Go to [firebase project](https://console.firebase.google.com/u/0/), and get config json in web seup
 ```sh
  {
-      apiKey: 'AIzaSyB-ikVWsPeouCVYZEKwpMiBxg1qv5jluv8',
-      authDomain: 'so-upload.firebaseapp.com',
-      databaseURL: 'https://so-upload.firebaseio.com',
-      projectId: 'so-upload',
-      storageBucket: 'so-upload.appspot.com',
-      messagingSenderId: '367478593763'
+      apiKey: '***************************************',
+      authDomain: '*************************',
+      databaseURL: '********************************',
+      projectId: '*********',
+      storageBucket: '*********************',
+      messagingSenderId: '************'
   }
 };
 ```
@@ -22,12 +22,12 @@ This tutorial will walk you through how to upload file from Angular to Firebase
 export const environment = {
   production: false,
   firebase: {
-      apiKey: 'AIzaSyB-ikVWsPeouCVYZEKwpMiBxg1qv5jluv8',
-      authDomain: 'so-upload.firebaseapp.com',
-      databaseURL: 'https://so-upload.firebaseio.com',
-      projectId: 'so-upload',
-      storageBucket: 'so-upload.appspot.com',
-      messagingSenderId: '367478593763'
+      apiKey: '***************************************',
+      authDomain: '*************************',
+      databaseURL: '********************************',
+      projectId: '*********',
+      storageBucket: '*********************',
+      messagingSenderId: '************'
   }
 };
 ```

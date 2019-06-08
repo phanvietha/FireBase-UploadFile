@@ -154,9 +154,3 @@ import { finalize, map } from 'rxjs/operators';
 
   }
 ```
-
-
-
-License
-----
-Phan Viet Ha
